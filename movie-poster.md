@@ -89,20 +89,21 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:**  Create a movie poster for the movie flipped with a nice cursive title that is white, no description of the movie. I want the sycamore tree to be the focal point and for it to be upside down with a beautiful background in the back. I want Bryce loski and Julianna to look like they do in the movie meaning she has brown hair. I want them to still look like kids adults. They should be in the tree as well.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  The tree and background look really good
+- **What didn't work:** The people were horrible and deformed.
+- **What I'll change for next attempt:**  I'll make sure the people look more cartoonish and not lopsided.
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:**  Create a movie poster for the movie flipped with a nice cursive title that is white, no description of the movie. I want the sycamore tree to be the focal point and for it to be upside down with a beautiful background in the back. I want Bryce loski and Julianna to look like they do in the movie meaning she has brown hair. I want them to still look like kids adults. They should be in the tree as well (they should be almost cartoonish) I do not want them lopsided make them normal!
 
-- **What worked:**  
-- **What didn't work:**  
+
+- **What worked:** It was clean no weird movements from the two main characters. 
+- **What didn't work:**  It put one wrong names and I didn't ask for the tree to be cartoonish and unrealistic but it was. 
 
 **Final AI Image Selected:** (Which attempt? Why?)  
-
+I am going to choose my last attempt because although I don't love it honestley it is the best representation and gives off a happy move. 
 ---
 
 ## Step 4: Photoshop Modifications
