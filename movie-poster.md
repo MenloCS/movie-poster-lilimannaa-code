@@ -29,27 +29,27 @@ At each step, save and commit your work in GitHub Desktop.
 
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
-**Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+**Your Movie Choice:**
+- **Movie Title:** Flipped
+- **Why I chose this movie:** I recently watched this movie, and I really liked it this movie that I watched it twice in one weekend.
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:** The viewer might feel a little confused but also happy because the image is going to display light and joy.
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element:**  A Sycamore tree
+- **Why this element:** It's a huge part of the story that you wouldn't understand before watching it so it's like a hidden meaning. 
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:**  Nothing too bright, it should look pretty.
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s):**  Green
+- **Accent color(s):**  Blue
+- **Overall mood:** warm, inviting 
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
@@ -58,7 +58,7 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 - [ ] Object/symbol centered  
 - [ ] Character collage  
 
-- **Focal point description:**  
+- **Focal point description:**  I want a big sycamore tree that is a pretty green with a beautiful blue sky in the background. The sycamore tree should have a long branch as well. 
 
 ---
 
