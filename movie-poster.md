@@ -68,18 +68,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:**  Create a movie poster for the movie Flipped with a big sycamore tree as the focal point but I want it to be flipped around, and I want a beautiful background with the sky and birds.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:** It did invert the tree and make a pretty background. 
+- **What didn't work:**  It added a description of the movie which I don't want as well as the two kids who I didn't specifically say I want.
+- **What I'll change for next attempt:**  I want to make the title cursive and I want the kids to look slightly different (the girl should have brown hair).
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**  Create a movie poster for the movie flipped with a nice cursive title, no description of the movie. I want the sycamore tree to be the focal point and for it to be upside down with a beautiful background in the back. I want Bryce loski and Julianna to look like they do in the movie meaning she has brown hair.
 
 - **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What didn't work:**  They weren't actually in the tree, which I liked from the first attempt, 
+- **What I'll change for next attempt:**  I'll make sure they look younger and actually placed in the tree. I also want the words to be white. 
 
 ---
 
